@@ -68,6 +68,9 @@ Conclusion
 In summary, this C++ program demonstrates the use of multithreading, efficient file I/O, and a basic compression algorithm to implement a simple yet effective file compression/decompression utility. The modular design and clear separation of concerns make the code maintainable and extensible, while the use of modern C++ features reflects practical software engineering principles. It is a strong foundation for further improvements such as more sophisticated compression schemes, error handling, and performance optimizations.
 
 
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/3c87f53f-46d9-42ca-b358-c4fba1bd81bb)
+
 
 
 
